@@ -1,0 +1,25 @@
+const DefaultTheme = {
+    dark: false,
+    colors: {
+        splashBackgroundColor: '#111020',
+        fullBlack: '#000000',
+        secondaryBlack: '#121212',
+        fullWhite: '#FFFFFF',
+        wheatWhite: '#F5F5F5',
+        primary: '#5BC8E5',
+        lable: '#333333',
+        placeholder: '#666666',
+        inActiveText: '#A7A7A7',
+        bluishColor: '#111020',
+        brownish: '#2A2A2C',
+
+        IconColor: '#666666',
+        descText:'#000000',
+        checBoxColor:'#666666',
+
+        blackOrWhite:'#fff',
+        WhiteOrblack:'#000'
+    }
+};
+
+export default DefaultTheme;

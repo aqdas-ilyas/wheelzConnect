@@ -1,1 +1,1 @@
-# wheelzConnect
+# Wheelz-connect
